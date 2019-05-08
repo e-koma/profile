@@ -33,3 +33,19 @@
 - ゲーム開発者から見たSTADIA
   - [イベント概要](https://mercaridev.connpass.com/event/123663/) / [スライド](https://speakerdeck.com/yutokomai/mercari-gdc2019-stadia-report)
 - 他多数
+
+# イベント運営/スタッフ
+- ハッカソン運営
+  - Akatsuki VR Sound Jam
+  - 例のカノジョハッカソン
+  - 第1回 VTuberハッカソン
+  - スタンドアロンVRハッカソン
+- SPAJAM
+  - 2017 福岡予選 審査員
+  - 2018 SPAJAM道場 メンター
+  - 2018 札幌予選 スタッフ
+  - 2019 SPAJAM道場 メンター
+  - 2019 大阪予選 審査員
+- 勉強会
+  - FGOなど大規模ゲームの課題から学ぶゲームサーバ・インフラ勉強会
+  - 他多数
