@@ -1,6 +1,14 @@
-# profile
+# 経歴
+- 2012〜2015 NTTデータ
+  - 特許庁システムの設計/構築
+  - データセンターのラック/ネットワーク/OS/ミドルウェア設計
+  - 性能解析 / JVMやDBのチューニング等
+- 2015 〜 Akatsuki Inc.
+  - ソーシャルゲームのバックエンド開発6タイトル(2019/5時点)
+  - サーバサイドアプリケーション開発、インフラ設計構築運用
+  - Store上位のタイトルのバックエンド負荷対策等
 
-## 登壇 (20min以上)
+# 登壇 (20min以上)
 - Developers Summit 2016
   - 大規模Redisサーバ縮小化の戦い
   - [イベント概要](https://event.shoeisha.jp/devsumi/20160218/session/1000/) / [スライド](https://www.slideshare.net/ssuserf3788f/redis-58419914)
@@ -17,7 +25,7 @@
   - ロマサガRSの大規模トラフィックを捌くAmazon ECS & Docker 運用の知見
   - [イベント概要](https://aws.summitregist.jp/public/application/add/32)
 
-## LT (5〜20min)
+# LT (5〜20min)
 - 本当にあったRailsの怖い話
   - [イベント概要](https://megurorb.connpass.com/event/72431/) / [スライド](https://www.slideshare.net/ssuserf3788f/rails-83053313)
 - Fargate起動歴1日の男が語る 運用の勘どころ
