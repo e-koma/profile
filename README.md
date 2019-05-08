@@ -16,3 +16,12 @@
 - AWS Summit Tokyo 2019
   - ロマサガRSの大規模トラフィックを捌くAmazon ECS & Docker 運用の知見
   - [概要](https://aws.summitregist.jp/public/application/add/32)
+
+## LT (5〜20min)
+- 本当にあったRailsの怖い話
+  - [イベント概要](https://megurorb.connpass.com/event/72431/) / [スライド](https://www.slideshare.net/ssuserf3788f/rails-83053313)
+- Fargate起動歴1日の男が語る 運用の勘どころ
+    - [イベント概要](https://connpass.com/event/91736/) / [スライド](https://www.slideshare.net/ssuserf3788f/fargate1)
+- ゲーム開発者から見たSTADIA
+  - [イベント概要](https://mercaridev.connpass.com/event/123663/) / [スライド](https://speakerdeck.com/yutokomai/mercari-gdc2019-stadia-report)
+- 他多数
