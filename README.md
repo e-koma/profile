@@ -33,6 +33,8 @@
     - [イベント概要](https://connpass.com/event/91736/) / [スライド](https://www.slideshare.net/ssuserf3788f/fargate1)
 - ゲーム開発者から見たSTADIA
   - [イベント概要](https://mercaridev.connpass.com/event/123663/) / [スライド](https://speakerdeck.com/yutokomai/mercari-gdc2019-stadia-report)
+- バーチャルYouTuber 開発トーク
+  - [イベント概要](https://vtlt201906.peatix.com/) /
 - 他多数
 
 # イベント運営/スタッフ
