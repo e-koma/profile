@@ -41,9 +41,10 @@
 - ハッカソン運営
   - Akatsuki VR Sound Jam
   - 例のカノジョハッカソン
-  - 第1回 VTuberハッカソン
+  - 2018 第1回 VTuberハッカソン
   - スタンドアロンVRハッカソン
   - LookingGlassハッカソン
+  - 2019 VTuberハッカソン全国大会
 - SPAJAM
   - 2017 福岡予選 審査員
   - 2018 SPAJAM道場 メンター
