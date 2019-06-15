@@ -55,3 +55,6 @@
   - FGOなど大規模ゲームの課題から学ぶゲームサーバ・インフラ勉強会
   - VTuber.LT
   - 他多数
+
+# その他
+- LINEスタンプ [怠惰な意識高い系スタンプ](https://store.line.me/stickershop/product/1331450/ja)
