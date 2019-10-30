@@ -25,6 +25,7 @@
 - AWS Summit Tokyo 2019
   - ロマサガRSの大規模トラフィックを捌くAmazon ECS & Docker 運用の知見
   - [イベント概要](https://aws.summitregist.jp/public/application/add/32) / [スライド](https://pages.awscloud.com/rs/112-TZM-766/images/I3-04.pdf)
+- AWS Game Developer Conference 2019
 
 # LT (5〜20min)
 - 本当にあったRailsの怖い話
@@ -35,6 +36,7 @@
   - [イベント概要](https://mercaridev.connpass.com/event/123663/) / [スライド](https://speakerdeck.com/yutokomai/mercari-gdc2019-stadia-report)
 - バーチャルYouTuber 開発トーク
   - [イベント概要](https://vtlt201906.peatix.com/) /
+- This is My Architecture
 - 他多数
 
 # イベント運営/スタッフ
