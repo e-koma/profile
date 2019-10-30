@@ -9,7 +9,7 @@
   - Store上位のタイトルのバックエンド負荷対策等
   - バーチャルキャラクターのモーションキャプチャ
 
-# 登壇 (20min以上)
+# 登壇
 - Developers Summit 2016
   - 大規模Redisサーバ縮小化の戦い
   - [イベント概要](https://event.shoeisha.jp/devsumi/20160218/session/1000/) / [スライド](https://www.slideshare.net/ssuserf3788f/redis-58419914)
@@ -26,8 +26,9 @@
   - ロマサガRSの大規模トラフィックを捌くAmazon ECS & Docker 運用の知見
   - [イベント概要](https://aws.summitregist.jp/public/application/add/32) / [スライド](https://pages.awscloud.com/rs/112-TZM-766/images/I3-04.pdf) / [メディア](https://www.atmarkit.co.jp/ait/articles/1908/05/news012.html)
 - AWS Game Developer Conference 2019
+- This is My Architecture
 
-# LT (5〜20min)
+# LT
 - 本当にあったRailsの怖い話
   - [イベント概要](https://megurorb.connpass.com/event/72431/) / [スライド](https://www.slideshare.net/ssuserf3788f/rails-83053313)
 - Fargate起動歴1日の男が語る 運用の勘どころ
@@ -36,7 +37,6 @@
   - [イベント概要](https://mercaridev.connpass.com/event/123663/) / [スライド](https://speakerdeck.com/yutokomai/mercari-gdc2019-stadia-report)
 - バーチャルYouTuber 開発トーク
   - [イベント概要](https://vtlt201906.peatix.com/) /
-- This is My Architecture
 - 他多数
 
 # イベント運営/スタッフ
