@@ -24,7 +24,7 @@
   - [イベント概要](https://schedule.gdconf.com/session/dont-break-the-internet-how-to-quickly-scale-to-meet-player-demand-presented-by-amazon/865537) / [スライド](https://www.gdcvault.com/browse/gdc-19#page-6)
 - AWS Summit Tokyo 2019
   - ロマサガRSの大規模トラフィックを捌くAmazon ECS & Docker 運用の知見
-  - [イベント概要](https://aws.summitregist.jp/public/application/add/32)
+  - [イベント概要](https://aws.summitregist.jp/public/application/add/32) / [スライド](https://pages.awscloud.com/rs/112-TZM-766/images/I3-04.pdf)
 
 # LT (5〜20min)
 - 本当にあったRailsの怖い話
@@ -54,6 +54,7 @@
 - 勉強会
   - FGOなど大規模ゲームの課題から学ぶゲームサーバ・インフラ勉強会
   - VTuber.LT
+  - AR Designer Meetup
   - 他多数
 
 # その他
