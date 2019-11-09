@@ -66,6 +66,7 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - 他多数
 
 # その他
+- Tシャツ [ワタシハAWSチョットデキル](https://suzuri.jp/e__koma/2590232/t-shirt/l/sumi)
 - LINEスタンプ [怠惰な意識高い系スタンプ](https://store.line.me/stickershop/product/1331450/ja)
 
 # 経歴
