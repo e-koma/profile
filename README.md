@@ -35,6 +35,7 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - Amazon EC2 スポットインスタンスの各社の利用例についてご紹介
   - [イベント概要](https://aws-seminar.smktg.jp/public/application/add/426) /
 - This is My Architecture
+  - [概要](https://aws.amazon.com/jp/this-is-my-architecture/)
 
 # LT
 - 本当にあったRailsの怖い話
