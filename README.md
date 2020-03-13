@@ -16,6 +16,8 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 - 2016年: 達成欲/最上志向/適応性/共感性/信念
 
 # 登壇
+- AWS Summit Tokyo 2020 (予定)
+  - [イベント概要] / [スライド]
 - This is My Architecture
   - [概要](https://aws.amazon.com/jp/this-is-my-architecture/)
 - Amazon Game Developer Conference 2019
