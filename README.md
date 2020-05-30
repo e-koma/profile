@@ -20,6 +20,7 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - ※ 登壇予定でしたがコロナウイルス(COVID-19)の影響で中止になりました
 - This is My Architecture
   - [概要](https://aws.amazon.com/jp/this-is-my-architecture/)
+  - [Twitter](https://twitter.com/awscloud/status/1266507648473747457) / [YouTube](https://youtu.be/7dtomip_VXc)
 - Amazon Game Developer Conference 2019
   - Amazon EC2 スポットインスタンスの各社の利用例についてご紹介
   - [イベント概要](https://aws-seminar.smktg.jp/public/application/add/426) / [レポート](https://dev.classmethod.jp/cloud/aws/20191120-agdc-b4-ec2-spot-instance-introduction/)
