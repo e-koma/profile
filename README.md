@@ -53,7 +53,7 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 
 # イベント運営/メンター/審査員
 - ハッカソン運営
-  - 2020 [審査員] i+OH!JAM VTuberハッカソン
+  - 2020 中止: [審査員] i+OH!JAM VTuberハッカソン
   - 2019 [運営] 第二回LookingGlassハッカソン
   - 2019 [審査員] VTuberハッカソン全国ツアー東京大会
   - 2019 [審査員] SPAJAM 大阪予選
