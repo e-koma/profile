@@ -17,8 +17,8 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 
 # 登壇
 - AWS Summit Tokyo Online 2020
-- This is My Architecture (AWS公式YouTubeチャンネルのArchitecture紹介動画)
-  - Building Stable and Scalable Large Scale Game Servers with Amazon ECS (Japanese)
+- AWS公式YouTubeチャンネル
+  - This is My Architecture: Building Stable and Scalable Large Scale Game Servers with Amazon ECS (Japanese)
   - [概要](https://aws.amazon.com/jp/this-is-my-architecture/)
   - [Twitter](https://twitter.com/awscloud/status/1266507648473747457) / [YouTube](https://youtu.be/7dtomip_VXc)
 - Amazon Game Developer Conference 2019
