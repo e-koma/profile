@@ -31,7 +31,7 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - [イベント概要](https://aws.summitregist.jp/public/application/add/32) / [スライド](https://pages.awscloud.com/rs/112-TZM-766/images/I3-04.pdf) / [メディア](https://www.atmarkit.co.jp/ait/articles/1908/05/news012.html)
 - Game Developers Conference 2019
   - Don't Break the Internet: How to Quickly Scale to Meet Player Demand
-  - [イベント概要](https://schedule.gdconf.com/session/dont-break-the-internet-how-to-quickly-scale-to-meet-player-demand-presented-by-amazon/865537) / [スライド](https://www.gdcvault.com/browse/gdc-19#page-6)
+  - [イベント概要](https://schedule.gdconf.com/session/dont-break-the-internet-how-to-quickly-scale-to-meet-player-demand-presented-by-amazon/865537) / [スライド](https://www.gdcvault.com/play/1026115/Don-t-Break-the-Internet)
 - Amazon Game Tech Night #8 〜AWSでゲームをリリースするベストプラクティス〜
     - オレ的最強ECS & Faragate ビルド環境 on AWS
     - [イベント概要](https://gamingtechnight.connpass.com/event/102837/) / [スライド](https://speakerdeck.com/yutokomai/ecs-fargate-build-on-aws-codebuild)
