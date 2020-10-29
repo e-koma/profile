@@ -19,7 +19,7 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 # 登壇
 - AWS Summit Tokyo Online 2020
   - 6000個のセキュリティポリシーを自動監査！アカツキ流、AWSセキュリティの取り組み紹介
-  - [イベント概要](https://aws.amazon.com/jp/summits/2020/sessions/ondemand-sessions/?aws-summit-japan-cards.sort-by=item.additionalFields.sortOrder&aws-summit-japan-cards.sort-order=asc&awsf.aws-summit-japan-filter-industry=industry%23gaming&awsf.aws-summit-japan-filter-tech-category=tech-category%23security-identity-compliance)
+  - [イベント概要](https://aws.amazon.com/jp/summits/2020/sessions/ondemand-sessions/?aws-summit-japan-cards.sort-by=item.additionalFields.sortOrder&aws-summit-japan-cards.sort-order=asc&awsf.aws-summit-japan-filter-industry=industry%23gaming&awsf.aws-summit-japan-filter-tech-category=tech-category%23security-identity-compliance) / [スライド](https://pages.awscloud.com/rs/112-TZM-766/images/CUS-77_AWS_Summit_Online_2020_Akatsuki.pdf)
 - AWS公式YouTubeチャンネル
   - This is My Architecture: Building Stable and Scalable Large Scale Game Servers with Amazon ECS (Japanese)
   - [概要](https://aws.amazon.com/jp/this-is-my-architecture/)
