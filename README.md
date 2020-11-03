@@ -54,6 +54,9 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - [イベント概要](https://megurorb.connpass.com/event/72431/) / [スライド](https://www.slideshare.net/ssuserf3788f/rails-83053313)
 - 他多数
 
+# OSS貢献
+- AWSの公式GitHubリポジトリである [awslabs](https://github.com/awslabs) に、AWSConfigルールを追加 / [Pull Request](https://github.com/awslabs/aws-config-rules/pull/319)
+
 # イベント運営/メンター/審査員
 - ハッカソン運営
   - 2020 中止: [審査員] i+OH!JAM VTuberハッカソン
