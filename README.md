@@ -99,6 +99,13 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - 40個以上のAWSアカウント全リージョンに対して、6000個以上のセキュリティポリシー監査をほぼ1人で自動化しました。
   - 業務で実装した内容をAWS公式のGitHubリポジトリに [OSS貢献](https://github.com/awslabs/aws-config-rules/pull/319) したり、業務内容をAWS公式イベント(AWS Summit)で [発信](https://pages.awscloud.com/rs/112-TZM-766/images/CUS-77_AWS_Summit_Online_2020_Akatsuki.pdf) したりしました。
 
+### 兼務
+- 兼務プロジェクト概要その1
+  - 組織全体のAWS/GCP管理者
+-　発揮したバリュー
+  - 全社クラウドインフラコスト管理 / リザーブドインスタンス購入
+  - 営業/SA/TAMとのコミュニケーション窓口
+
 ### 2019/07〜2019/10
 - プロジェクト概要
   - ストアランキング最高2位を獲得したことがあるリズムゲーム開発
