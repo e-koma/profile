@@ -58,6 +58,8 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 
 # OSS貢献
 - AWSの公式GitHubリポジトリである [awslabs](https://github.com/awslabs) に、AWSConfigルールを追加 / [Pull Request](https://github.com/awslabs/aws-config-rules/pull/319)
+- Google OSSである[forseti](https://github.com/forseti-security)への貢献 / [Pull Request](https://github.com/forseti-security/terraform-google-forseti/pull/622)
+  - forsetiの方は内容としては微々たる貢献だが、マージされるまでにforsetiコミュニティへ貢献し続けてやっと見てもらえたPull Requestの1つ。
 
 # イベント運営/メンター/審査員
 - ハッカソン運営
