@@ -95,15 +95,16 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - 性能解析 / JVMやDBのチューニング等
 
 # 業務経歴
-### 2019/10〜2020
+### 2019/10〜2021
 - プロジェクト概要
-  - 会社全体のセキュリティ統制
-  - 本プロジェクトに貢献した具体的な実装は[AWS Summit 2020の資料](https://pages.awscloud.com/rs/112-TZM-766/images/CUS-77_AWS_Summit_Online_2020_Akatsuki.pdf) に公開しています
+  - 会社全体のクラウドセキュリティ統制
+  - 本プロジェクトに貢献した具体的な実装の一部は[AWS Summit 2020の資料](https://pages.awscloud.com/rs/112-TZM-766/images/CUS-77_AWS_Summit_Online_2020_Akatsuki.pdf) に公開しています
 - 担当業務
   - AWS/GCP利用時のセキュリティのポリシー見直しおよび、監査の自動化、アカウントライフサイクルの統制
 - 発揮したバリュー
   - 40個以上のAWSアカウント全リージョンに対して、6000個以上のセキュリティポリシー監査をほぼ1人で自動化しました。
   - 業務で実装した内容をAWS公式のGitHubリポジトリに [OSS貢献](https://github.com/awslabs/aws-config-rules/pull/319) しました。
+  - Google OSSであるforsetiを利用して、動かない箇所をコミュニティやOSSにフィードバックしつつ、GCPのセキュリティ違反を自動検知する仕組みを構築しました。
 
 ### 兼務
 - 組織全体のAWS/GCP管理者
