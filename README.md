@@ -115,6 +115,8 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - 営業/SA/TAMとのコミュニケーション窓口
 - ゲームリリース時のサーバサイド品質チェックの門番
   - 各ゲーム、リリース前に必要な運用設計、パフォーマンスチューニング、負荷テストがされているかなどを行う役割
+- VTuber事業
+  - [VTuberコンテンツ](https://www.youtube.com/watch?v=wP3aTE-qRh8)制作の企画進行のアドバイザー
 
 ### 2019/07〜2019/10
 - プロジェクト概要
@@ -142,12 +144,14 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
     - 負荷テストおよびアプリケーション/インフラチューニング
     - GDC: Game Developers Conference(世界最大規模のゲーム開発者向けカンファレンス)で登壇 / [参考](https://www.gdcvault.com/play/1026115/Don-t-Break-the-Internet)
 ### 2018/01〜2018/05
+- 気が向けば書きます
 ### 2017/10〜2018/01
 ### 2017/08〜2017/10
 ### 2017/05〜2017/08
 ### 2015/09〜2017/04
 ### 2014〜2015
 ### 2012〜2014
+- 特許庁のシステム構築
 
 # 資格
 - Google Cloud Certified - Professional Cloud Architect
