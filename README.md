@@ -61,8 +61,9 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 - Google OSSである[forseti](https://github.com/forseti-security)への貢献 / [Pull Request](https://github.com/forseti-security/terraform-google-forseti/pull/622)
   - forsetiの方は内容としては微々たる貢献だが、マージされるまでにforsetiコミュニティへ貢献し続けてやっと見てもらえたPull Requestの1つ。
 
-# その他
+# インタビュー/お客様の声
 - Amazon Aurora[お客様の声](https://aws.amazon.com/jp/rds/aurora/customers/)(2020〜2021掲載)
+- Future Vuls[導入事例](https://vuls.biz/aktsk.html)
 
 # イベント運営/メンター/審査員
 - ハッカソン運営
