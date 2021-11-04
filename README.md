@@ -58,8 +58,10 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 
 # OSS貢献
 - AWSの公式GitHubリポジトリである [awslabs](https://github.com/awslabs) に、AWSConfigルールを追加 / [Pull Request](https://github.com/awslabs/aws-config-rules/pull/319)
+  - 数千行の巨大PRなのですが、率先してマージされました
 - Google OSSである[forseti](https://github.com/forseti-security)への貢献 / [Pull Request](https://github.com/forseti-security/terraform-google-forseti/pull/622)
-  - forsetiの方は内容としては微々たる貢献だが、マージされるまでにforsetiコミュニティへ貢献し続けてやっと見てもらえたPull Requestの1つ。
+  - 内容は微々たるものだが、マージされるまでにforsetiコミュニティへ貢献し続けて、やっと見てもらえたPull Requestなので価値は高いと判断しています
+- typo修正レベルであれば他にもちょこちょこ [1](https://github.com/fluent/fluentd-docs/pull/582) / [2](https://github.com/GoogleCloudPlatform/policy-library/pull/391) / [3](https://github.com/GoogleCloudPlatform/policy-library/pull/412) / [4](https://github.com/codeforjapan/codeofconduct/pull/1) / [5](https://github.com/zembutsu/docs.docker.jp/pull/204)
 
 # インタビュー/お客様の声
 - Amazon Aurora[お客様の声](https://aws.amazon.com/jp/rds/aurora/customers/)(2020〜2021掲載)
