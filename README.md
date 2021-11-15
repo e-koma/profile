@@ -63,9 +63,10 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - 内容は微々たるものだが、マージされるまでにforsetiコミュニティへ貢献し続けて、やっと見てもらえたPull Requestなので価値は高いと判断しています
 - typo修正レベルであれば他にもちょこちょこ [fluentd-docs](https://github.com/fluent/fluentd-docs/pull/582) / GCP [policy-library01](https://github.com/GoogleCloudPlatform/policy-library/pull/391) / [02](https://github.com/GoogleCloudPlatform/policy-library/pull/412) / [codeforjapan](https://github.com/codeforjapan/codeofconduct/pull/1) / [dockerjp](https://github.com/zembutsu/docs.docker.jp/pull/204)
 
-# インタビュー/お客様の声
-- Amazon Aurora[お客様の声](https://aws.amazon.com/jp/rds/aurora/customers/)(2020〜2021掲載)
-- Future Vuls[導入事例](https://vuls.biz/aktsk.html)
+# ブログ/インタビュー
+- [Zenn](https://zenn.dev/e_koma)
+- Amazon Aurora [お客様の声](https://aws.amazon.com/jp/rds/aurora/customers/)(2020〜2021掲載)
+- Future Vuls [導入事例](https://vuls.biz/aktsk.html)
 
 # イベント運営/メンター/審査員
 - ハッカソン運営
