@@ -57,11 +57,14 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 - 他多数
 
 # OSS貢献
-- AWSの公式GitHubリポジトリである [awslabs](https://github.com/awslabs) に、AWSConfigルールを追加 / [Pull Request](https://github.com/awslabs/aws-config-rules/pull/319)
+- [awslabs](https://github.com/awslabs) (AWS公式GitHubリポジトリ)
+  - AWSConfigルールを追加 / [Pull Request](https://github.com/awslabs/aws-config-rules/pull/319)
   - 数千行の巨大PRなのですが、率先してマージされました
-- Google OSSである[forseti](https://github.com/forseti-security)への貢献 / [Pull Request](https://github.com/forseti-security/terraform-google-forseti/pull/622)
+- [forseti](https://github.com/forseti-security) (Google OSS)
+  - Google Cloud Platformのsecurity OSSへの [Pull Request](https://github.com/forseti-security/terraform-google-forseti/pull/622)
   - 内容は微々たるものだが、マージされるまでにforsetiコミュニティへ貢献し続けて、やっと見てもらえたPull Requestなので価値は高いと判断しています
-- typo修正レベルであれば他にもちょこちょこ [fluentd-docs](https://github.com/fluent/fluentd-docs/pull/582) / GCP [policy-library01](https://github.com/GoogleCloudPlatform/policy-library/pull/391) / [02](https://github.com/GoogleCloudPlatform/policy-library/pull/412) / [codeforjapan](https://github.com/codeforjapan/codeofconduct/pull/1) / [dockerjp](https://github.com/zembutsu/docs.docker.jp/pull/204)
+- その他
+  - typo修正レベルであれば他にもちょこちょこ [fluentd-docs](https://github.com/fluent/fluentd-docs/pull/582) / GCP [policy-library01](https://github.com/GoogleCloudPlatform/policy-library/pull/391) / [02](https://github.com/GoogleCloudPlatform/policy-library/pull/412) / [codeforjapan](https://github.com/codeforjapan/codeofconduct/pull/1) / [dockerjp](https://github.com/zembutsu/docs.docker.jp/pull/204)
 
 # ブログ/インタビュー
 - [Zenn](https://zenn.dev/e_koma)
