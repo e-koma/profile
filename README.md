@@ -21,7 +21,7 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 # 登壇
 - AWS Summit Tokyo Online 2020
   - 6000個のセキュリティポリシーを自動監査！アカツキ流、AWSセキュリティの取り組み紹介
-  - [イベント概要](https://aws.amazon.com/jp/summits/2020/sessions/ondemand-sessions/?aws-summit-japan-cards.sort-by=item.additionalFields.sortOrder&aws-summit-japan-cards.sort-order=asc&awsf.aws-summit-japan-filter-industry=industry%23gaming&awsf.aws-summit-japan-filter-tech-category=tech-category%23security-identity-compliance) / [スライド](https://pages.awscloud.com/rs/112-TZM-766/images/CUS-77_AWS_Summit_Online_2020_Akatsuki.pdf)
+  - [イベント概要](https://resources.awscloud.com/aws-summit-online-japan-2020-on-demand) / [スライド](https://pages.awscloud.com/rs/112-TZM-766/images/CUS-77_AWS_Summit_Online_2020_Akatsuki.pdf)
 - AWS公式YouTubeチャンネル
   - This is My Architecture: Building Stable and Scalable Large Scale Game Servers with Amazon ECS (Japanese)
   - [概要](https://aws.amazon.com/jp/this-is-my-architecture/)
@@ -67,9 +67,16 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - typo修正レベルであれば他にもちょこちょこ [fluentd-docs](https://github.com/fluent/fluentd-docs/pull/582) / GCP [policy-library01](https://github.com/GoogleCloudPlatform/policy-library/pull/391) / [02](https://github.com/GoogleCloudPlatform/policy-library/pull/412) / [codeforjapan](https://github.com/codeforjapan/codeofconduct/pull/1) / [dockerjp](https://github.com/zembutsu/docs.docker.jp/pull/204)
 
 # ブログ/インタビュー
-- [Zenn](https://zenn.dev/e_koma)
-- Amazon Aurora [お客様の声](https://aws.amazon.com/jp/rds/aurora/customers/)(2020〜2021掲載)
-- Future Vuls [導入事例](https://vuls.biz/aktsk.html)
+- 公式インタビュー
+  - Amazon Aurora [お客様の声](https://aws.amazon.com/jp/rds/aurora/customers/)(2020〜2021掲載)
+  - Future Vuls [導入事例](https://vuls.biz/aktsk.html)
+- Zenn
+  - あと2時間でElastiCacheのメモリが枯渇！そのときあなたは何をしますか？
+    - [記事](https://zenn.dev/e_koma/articles/20201218-adventcalendar-1a8e2ea4) (はてブ600超え)
+- アカツキハッカーズラボ
+  - IAMユーザにIP制限をかけていますか？AWS Configのカスタムルールを作成し、システム監査を自動化した話 [記事](https://hackerslab.aktsk.jp/aws-config-custom-rule-ip-restriction)
+  - CodeBuildでサーバレスバッチ環境を運用する [記事](https://hackerslab.aktsk.jp/codebuild-batch-operation)
+  - エンジニアチームを幸せにするたった1つの方法 [記事](https://hackerslab.aktsk.jp/other/team-building-with-curry/)
 
 # イベント運営/メンター/審査員
 - ハッカソン運営
@@ -90,6 +97,7 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - FGOなど大規模ゲームの課題から学ぶゲームサーバ・インフラ勉強会
   - VTuber.LT
   - AR Designer Meetup
+  - 行列のできるRubyコミュニティ [記事](https://hackerslab.aktsk.jp/2017/12/06/184342)
   - 他多数
 
 # 経歴
