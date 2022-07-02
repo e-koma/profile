@@ -19,6 +19,10 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 - 2021年 16 Personalities [広報運動家](https://www.16personalities.com/ja/enfp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)
 
 # 登壇
+- Google Cloud Day: Digital '22
+  - アカツキ流セキュリティ監査自動化 ～400 個以上の Google Cloud プロジェクト監査を自動化したノウハウを一挙公開～
+  - [イベント & スライド](https://cloudonair.withgoogle.com/events/google-cloud-day-digital-22) / [YouTube](https://www.youtube.com/watch?v=tgHoN5umizw) / [レポート](https://dev.classmethod.jp/articles/saitchan-20220510/)
+  - Google Developer Blogにもおすすめセッションとして [紹介](https://developers-jp.googleblog.com/2022/04/google-cloud-day-digital-22.html) されました
 - AWS Summit Tokyo Online 2020
   - 6000個のセキュリティポリシーを自動監査！アカツキ流、AWSセキュリティの取り組み紹介
   - [イベント概要](https://resources.awscloud.com/aws-summit-online-japan-2020-on-demand) / [スライド](https://pages.awscloud.com/rs/112-TZM-766/images/CUS-77_AWS_Summit_Online_2020_Akatsuki.pdf)
