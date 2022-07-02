@@ -35,6 +35,7 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - [イベント概要](https://aws-seminar.smktg.jp/public/application/add/426) / [スライド](https://pages.awscloud.com/rs/112-TZM-766/images/AGDC2019_B-4.pdf) / [レポート](https://dev.classmethod.jp/cloud/aws/20191120-agdc-b4-ec2-spot-instance-introduction/)
 - AWS Summit Tokyo 2019
   - ロマサガRSの大規模トラフィックを捌くAmazon ECS & Docker 運用の知見
+    - AWS Summit 全267セッション中、人気セッション [Top5に選出](https://pages.awscloud.com/event_JAPAN_AWS-Summit-Top10-part1.html) されました
   - [イベント概要](https://aws.summitregist.jp/public/application/add/32) / [スライド](https://pages.awscloud.com/rs/112-TZM-766/images/I3-04.pdf) / [メディア](https://www.atmarkit.co.jp/ait/articles/1908/05/news012.html)
 - Game Developers Conference 2019
   - Don't Break the Internet: How to Quickly Scale to Meet Player Demand
