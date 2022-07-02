@@ -15,13 +15,13 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - プロジェクトのリリースを迎えるた経験が豊富なので、システム開発のクロージング能力は高いと思います。
 
 # パーソナリティ
-- 2016年 ストレングスファインダー: 達成欲/最上志向/適応性/共感性/信念
 - 2021年 16 Personalities [広報運動家](https://www.16personalities.com/ja/enfp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)
+- 2016年 ストレングスファインダー: 達成欲/最上志向/適応性/共感性/信念
 
 # 登壇
 - Google Cloud Day: Digital '22
   - アカツキ流セキュリティ監査自動化 ～400 個以上の Google Cloud プロジェクト監査を自動化したノウハウを一挙公開～
-  - [イベント & スライド](https://cloudonair.withgoogle.com/events/google-cloud-day-digital-22) / [YouTube](https://www.youtube.com/watch?v=tgHoN5umizw) / [レポート](https://dev.classmethod.jp/articles/saitchan-20220510/)
+  - [イベント & スライド](https://cloudonair.withgoogle.com/events/google-cloud-day-digital-22?talk=d1-sec-07) / [YouTube](https://www.youtube.com/watch?v=tgHoN5umizw) / [レポート](https://dev.classmethod.jp/articles/saitchan-20220510/)
   - Google Developer Blogにもおすすめセッションとして [紹介](https://developers-jp.googleblog.com/2022/04/google-cloud-day-digital-22.html) されました
 - AWS Summit Tokyo Online 2020
   - 6000個のセキュリティポリシーを自動監査！アカツキ流、AWSセキュリティの取り組み紹介
@@ -73,7 +73,7 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 
 # ブログ/インタビュー
 - 公式インタビュー
-  - Amazon Aurora [お客様の声](https://aws.amazon.com/jp/rds/aurora/customers/)(2020〜2021掲載)
+  - Amazon Aurora [お客様の声](https://aws.amazon.com/jp/rds/aurora/customers/)
   - Future Vuls [導入事例](https://vuls.biz/aktsk.html)
 - Zenn
   - あと2時間でElastiCacheのメモリが枯渇！そのときあなたは何をしますか？
@@ -118,24 +118,26 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
   - 性能解析 / JVMやDBのチューニング等
 
 # 業務経歴
-### 2019/10〜2021
+### 2019/10〜2022
 - プロジェクト概要
   - 会社全体のクラウドセキュリティ統制
-  - 本プロジェクトに貢献した具体的な実装の一部は[AWS Summit 2020の資料](https://pages.awscloud.com/rs/112-TZM-766/images/CUS-77_AWS_Summit_Online_2020_Akatsuki.pdf) に公開しています
+  - 本プロジェクトに貢献した具体的な実装の一部は以下に公開しています
+    - [Google Cloud Day: Digital '22](https://cloudonair.withgoogle.com/events/google-cloud-day-digital-22?talk=d1-sec-07)
+    - [AWS Summit 2020](https://pages.awscloud.com/rs/112-TZM-766/images/CUS-77_AWS_Summit_Online_2020_Akatsuki.pdf)
 - 担当業務
-  - AWS/GCP利用時のセキュリティのポリシー見直しおよび、監査の自動化、アカウントライフサイクルの統制
+  - 会社全体のAWS/GCP利用時のセキュリティのポリシー見直しおよび、監査の自動化、アカウントライフサイクルの統制
 - 発揮したバリュー
-  - 40個以上のAWSアカウント全リージョンに対して、6000個以上のセキュリティポリシー監査をほぼ1人で自動化しました。
+  - 40個以上のAWSアカウント全リージョン / 400個以上のGoogle Cloudプロジェクトに対して、6000個以上のセキュリティポリシー監査をほぼ1人で自動化する仕組みを構築しました。
   - 業務で実装した内容をAWS公式のGitHubリポジトリに [OSS貢献](https://github.com/awslabs/aws-config-rules/pull/319) しました。
   - Google OSSであるforsetiを利用して、動かない箇所をコミュニティやOSSにフィードバックしつつ、GCPのセキュリティ違反を自動検知する仕組みを構築しました。
 
-### 兼務
-- 組織全体のAWS/GCP管理者
-  - 全社クラウドインフラコスト管理 / リザーブドインスタンス購入
+### 同時並行で行っている兼務
+- 組織全体のクラウドインフラ管理者
+  - 全社AWS/GCPのインフラコスト管理 / リザーブドインスタンス購入 / 契約
   - 営業/SA/TAMとのコミュニケーション窓口
-- ゲームリリース時のサーバサイド品質チェックの門番
+- サーバサイド品質チェックの門番
   - 各ゲーム、リリース前に必要な運用設計、パフォーマンスチューニング、負荷テストがされているかなどを行う役割
-- VTuber事業
+- バーチャルアーティスト事業
   - [VTuberコンテンツ](https://www.youtube.com/watch?v=wP3aTE-qRh8)制作の企画進行のアドバイザー
 
 ### 2019/07〜2019/10
