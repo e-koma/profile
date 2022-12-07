@@ -1,7 +1,4 @@
-## Cloud
-
-各サービスのメリットデメリットを把握しつつ、技術選定をすることが可能です。
-
+## Cloud Infrastructure
 - 構成管理
     - CloudFormation / Terraform / Ansible / Chef
 - AWS
@@ -15,6 +12,8 @@
     - Cloud Storage / Cloud SQL / BigQuery / PubSub / Dataflow
     - Cloud Logging / Cloud Monitoring / Cloud Scheduler / Cloud Build
     - Security Command Center
+
+各サービスのメリットデメリットを把握しつつ、技術選定をすることが可能です。
 
 ## SRE
 - キャパシティプランニング・プロビジョニング
@@ -34,7 +33,6 @@
 - Windows Server
     - 構成管理ツールを使いながらレジストリ設定の自動化などが可能
 
-
 ## Language
 - 業務経験あり
   - Ruby / Ruby on Rails: パフォーマンスを意識した開発が可能
@@ -42,7 +40,9 @@
   - Elixir / Phoenix
   - Go
 - 個人開発レベル
-  - Unity(C#) / Vue.js / Node.js / Perl / Java
+  - Unity(C#)
+    - VR デバイスやPerception Neuronのようなモーションキャプチャーデバイスを利用し、3Dモデルをリアルタイム動作させ、踊らせることが可能
+  - Vue.js / Node.js / Perl / Java
 
 ## DBMS
 - スキーマ / index設計
@@ -58,7 +58,6 @@
 - クエリ分析
 
 ## DevOps
-
 継続的デプロイの設計・運用が可能
 
 - Docker
