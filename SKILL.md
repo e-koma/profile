@@ -1,3 +1,14 @@
+## Language
+- 業務経験あり
+  - Ruby / Ruby on Rails: パフォーマンスを意識した開発が可能
+  - Python
+  - Elixir / Phoenix
+  - Go
+- 個人開発レベル
+  - Unity / C#
+    - 3Dモデルをリアルタイム動作させ、踊らせることが可能
+  - Vue.js / Node.js / Perl
+
 ## Cloud Infrastructure
 - 構成管理
     - CloudFormation / Terraform / Ansible / Chef
@@ -32,17 +43,6 @@
     - 構成管理に加え、負荷対策のためのOSパラメータチューニングなどが可能
 - Windows Server
     - 構成管理ツールを使いながらレジストリ設定の自動化などが可能
-
-## Language
-- 業務経験あり
-  - Ruby / Ruby on Rails: パフォーマンスを意識した開発が可能
-  - Python
-  - Elixir / Phoenix
-  - Go
-- 個人開発レベル
-  - Unity(C#)
-    - VR デバイスやPerception Neuronのようなモーションキャプチャーデバイスを利用し、3Dモデルをリアルタイム動作させ、踊らせることが可能
-  - Vue.js / Node.js / Perl / Java
 
 ## DBMS
 - スキーマ / index設計
