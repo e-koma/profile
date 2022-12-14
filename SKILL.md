@@ -1,6 +1,7 @@
 ## Language
 - 業務経験あり
-  - Ruby / Ruby on Rails: パフォーマンスを意識した開発が可能
+  - Ruby / Ruby on Rails
+    - パフォーマンスチューニングが可能
   - Python
   - Elixir / Phoenix
   - Go
@@ -10,6 +11,9 @@
   - Vue.js / Node.js / Perl
 
 ## Cloud Infrastructure
+
+各サービスのメリットデメリットを把握しつつ、技術選定をすることが可能。
+
 - 構成管理
     - CloudFormation / Terraform / Ansible / Chef
 - AWS
@@ -24,25 +28,32 @@
     - Cloud Logging / Cloud Monitoring / Cloud Scheduler / Cloud Build
     - Security Command Center
 
-各サービスのメリットデメリットを把握しつつ、技術選定をすることが可能です。
-
 ## SRE
-- キャパシティプランニング・プロビジョニング
+- キャパシティプランニング、プロビジョニング
 - 可用性向上・負荷対策
 - パフォーマンスチューニング
 - 監視メトリクス設計・可観測性向上
 - トイルの撲滅
-- インシデント対応・トラブルシュート:
+- インシデント対応・トラブルシュート
 - セキュリティ対策
 - コスト管理・削減
+- 負荷テスト
+  - Jmeter / Locust / Gatling
+  - 25000 rps の API負荷テストの仕組み構築が可能。
 
 トラブルシュートの [参考ブログ](https://zenn.dev/e_koma/articles/20201218-adventcalendar-1a8e2ea4)
+
+## Cloud Security
+- AWS / GCPの全アカウントを横断したCSPM
+  - 社内ポリシー違反したセキュリティ設定を自動検出し、セミリアルタイムに管理者に通知する仕組み
+  - クラウドで用意されているマネージドサービスでは融通が効かない箇所を、組織のワークフローに沿って、柔軟にカスタマイズした現実的な運用を構築することが可能。
 
 ## OS
 - Linux
     - 構成管理に加え、負荷対策のためのOSパラメータチューニングなどが可能
 - Windows Server
-    - 構成管理ツールを使いながらレジストリ設定の自動化などが可能
+    - 構成管理ツールを使い、レジストリ設定の自動化などが可能
+    - Windows Serverのクラウドデスクトップ化
 
 ## DBMS
 - スキーマ / index設計
@@ -62,7 +73,6 @@
 
 - Docker
 - Jenkins / Gihub Actions / CircleCI / Perforce
-- Jmeter / Locust / Gatling
 
 ## API
 - Rest APIの設計
