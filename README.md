@@ -84,10 +84,14 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 - その他
   - typo修正レベルであれば他にもちょこちょこ [fluentd-docs](https://github.com/fluent/fluentd-docs/pull/582) / GCP [policy-library01](https://github.com/GoogleCloudPlatform/policy-library/pull/391) / [02](https://github.com/GoogleCloudPlatform/policy-library/pull/412) / [codeforjapan](https://github.com/codeforjapan/codeofconduct/pull/1) / [dockerjp](https://github.com/zembutsu/docs.docker.jp/pull/204)
 
-# ブログ/インタビュー
-- 公式インタビュー
+# インタビュー
+- 企業インタビュー
   - Amazon Aurora [お客様の声](https://aws.amazon.com/jp/rds/aurora/customers/)
   - Future Vuls [導入事例](https://vuls.biz/aktsk.html)
+- IR資料
+  - Spotlighting Talentsに選出([資料](https://ssl4.eir-parts.net/doc/3932/ir_material_for_fiscal_ym/68748/00.pdf)のp19)
+
+# ブログ
 - Zenn
   - あと2時間でElastiCacheのメモリが枯渇！そのときあなたは何をしますか？
     - [記事](https://zenn.dev/e_koma/articles/20201218-adventcalendar-1a8e2ea4) (はてブ600超え)
