@@ -10,21 +10,33 @@
   - 他職種向け課題解決のための、新規チーム立ち上げ
     - ゲームのシナリオ管理を検索しやすくするツール開発など
 
-### 2021/06〜2022/12 (副業)
+### 2021/01〜2022/3
+- プロジェクト
+  - 組織全体の GCP セキュリティ統制
+- 担当業務
+  - GCPのセキュリティ監査の自動化、アカウントライフサイクルの統制
+- 成果
+  - 400個以上のGoogle Cloudプロジェクトに対して、セキュリティポリシー監査を自動化する仕組みをほぼ1人で構築しました。
+  - Google OSS である forseti に対して動かない箇所を、コミュニティや OSS にフィードバック。
+  - 本プロジェクトの具体的な成果は以下に公開しています
+    - [Google Cloud Day: Digital '22](https://cloudonair.withgoogle.com/events/google-cloud-day-digital-22?talk=d1-sec-07)
+
+### 2021/06〜2021/12 (副業)
 - NFTシステムの負荷テストおよび、チェーンの遅延監視
 
-### 2019/10〜2021
-- プロジェクト概要
-  - 会社全体のクラウドセキュリティ統制
-  - 本プロジェクトに貢献した具体的な実装の一部は以下に公開しています
-    - [Google Cloud Day: Digital '22](https://cloudonair.withgoogle.com/events/google-cloud-day-digital-22?talk=d1-sec-07)
-    - [AWS Summit 2020](https://pages.awscloud.com/rs/112-TZM-766/images/CUS-77_AWS_Summit_Online_2020_Akatsuki.pdf)
+### 2020/11〜2020/12
+- ストアランキング上位を獲得したことがあるゲームのリリース直後のトラブルシュートサポート
+  - 成果：[あと2時間でElastiCacheのメモリが枯渇！そのときあなたは何をしますか？](https://zenn.dev/e_koma/articles/20201218-adventcalendar-1a8e2ea4)
+
+### 2019/10〜2020/10
+- 会社全体の AWS セキュリティ統制
 - 担当業務
-  - 会社全体のAWS/GCP利用時のセキュリティのポリシー見直しおよび、監査の自動化、アカウントライフサイクルの統制
-- 発揮したバリュー
-  - 40個以上のAWSアカウント全リージョン / 400個以上のGoogle Cloudプロジェクトに対して、6000個以上のセキュリティポリシー監査をほぼ1人で自動化する仕組みを構築しました。
+  - 会社全体のAWS利用時のセキュリティのポリシー見直しおよび、監査の自動化、アカウントライフサイクルの統制
+- 成果
+  - 40個以上のAWSアカウント全リージョンに対して、6000個以上のセキュリティポリシー監査をほぼ1人で自動化する仕組みを構築しました。
   - 業務で実装した内容をAWS公式のGitHubリポジトリに [OSS貢献](https://github.com/awslabs/aws-config-rules/pull/319) しました。
-  - Google OSSであるforsetiを利用して、動かない箇所をコミュニティやOSSにフィードバックしつつ、GCPのセキュリティ違反を自動検知する仕組みを構築しました。
+  - 本プロジェクトの具体的な成果は以下に公開しています
+    - [AWS Summit 2020](https://pages.awscloud.com/rs/112-TZM-766/images/CUS-77_AWS_Summit_Online_2020_Akatsuki.pdf)
 
 ### 同時並行で行っている兼務
 - 組織全体のクラウドインフラ管理者
