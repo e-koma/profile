@@ -127,5 +127,6 @@ App Store/Google Playのセールスランキング上位アプリのサーバ�
 - LPIC-1
 
 # その他
+- Suica 利用履歴を自動集計してくれる[ツール](https://chromewebstore.google.com/detail/suica-sf-filter/iagpbnbbpojncjdfefeoagblmngapggp?hl=ja)
 - Tシャツ [ワタシハAWSチョットデキル](https://suzuri.jp/e__koma/2590232/t-shirt/l/sumi)
 - LINEスタンプ [怠惰な意識高い系スタンプ](https://store.line.me/stickershop/product/1331450/ja)
