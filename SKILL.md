@@ -17,11 +17,12 @@
 - 構成管理
     - CloudFormation / Terraform / Ansible / Chef
 - AWS
-    - EC2 / ECS (Fargate) / Lambda
+    - EC2 / ECS (Fargate) / EKS / Lambda
     - RDS / ElastiCache / DynamoDB / EFS / S3
     - VPC / WAF / CloudFront / Route 53 / ACM / Traffic Mirroring
-    - SSM / CloudWatch / SQS / CodeBuild / CodePipeline / Secrets Manager
+    - SSM / CloudWatch / SQS / SNS / CodeBuild / CodePipeline / Secrets Manager
     - AWS Config / GuardDuty / Trusted Advisor / Inspector / CloudTrail / IAM / CostExplorer
+    - EC2 Image Builder / Systems Manager
 - Google Cloud
     - Compute Engine / App Engine / Cloud Run / Cloud Functions
     - Cloud Storage / Cloud SQL / BigQuery / PubSub / Dataflow
@@ -68,16 +69,25 @@
 - 監視・パフォーマンス分析
 - クエリ分析
 
-## DevOps
+## DevOps / Container Orchestration
 継続的デプロイの設計・運用が可能
 
-- Docker
-- Jenkins / Gihub Actions / CircleCI / Perforce
+- Docker / Kubernetes
+  - EKS クラスタ運用・管理
+  - Karpenter による自動スケーリング
+  - カナリアデプロイメント実装
+  - マルチクラスタ運用
+- Jenkins / Github Actions / CircleCI / Perforce
 
 ## API
 - Rest APIの設計
 
 ## MiddleWare / SaaS
-- Fluentd / fluent bit / Nginx / Membached / Redis
+- Fluentd / fluent bit / Nginx / Memcached / Redis
 - Datadog / NewRelic / Mackerel
 - forseti
+
+## Message Queue / Event Streaming
+- AWS SQS による分散処理・排他制御
+- Redis による分散ロック・キューイング
+- 大規模システムでのメッセージング設計・実装
